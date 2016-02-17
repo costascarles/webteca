@@ -50,3 +50,18 @@
 	float: none;
     margin: 0 auto;
 	}
+/*DC*/ 
+.rt-title-dc{font-size:32px; font-family:'Arvo'; text-align:center}
+.rt-subtitle-dc{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rt-circular-dc {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://elregional.net.ve/wp-content/uploads/2014/07/vla3.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
